@@ -6,7 +6,7 @@ This is a one page website to showcase Adrianne Cookson online profile an portfo
 
 The following image shows the landing page appearance and functionality
 
-![An image of the portfolio website landing page appearance and functionality.](/assets/images/screenshot-page.pngimages/website-screenshot.png)
+![An image of the portfolio website landing page appearance and functionality.](/assets/images/screenshot-page.png)
 
 
 ## Installation
