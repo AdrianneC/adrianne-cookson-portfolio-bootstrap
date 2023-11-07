@@ -339,7 +339,6 @@ footer ul li a.active {
 
 #sm-footer {
   background-color: rgb(255, 255, 255); 
-  font-size: 3rem; 
   font-family: 'Roboto Slab', sans-serif; 
 }
 
@@ -355,6 +354,7 @@ a, a:visited {
 
 .iconfooter {
   color: black;
+  font-size: 2rem;
 }
 
 .iconfooter:hover {
